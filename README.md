@@ -105,10 +105,3 @@ You can access the admin dashboard using:
 ## 🛠️ Contributions
 
 Feel free to fork and improve! Submit pull requests or issues if you’d like to contribute or suggest changes.
-
-```
-
----
-
-Let me know if you want the same thing in Urdu, or need a second `README_LOGIN.txt` for default credentials.
-```
