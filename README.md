@@ -48,7 +48,7 @@ C:\xampp\htdocs\golearn-web
 * Select the SQL file located at:
 
   ```
-  /extras/lms.sql
+  lms.sql
   ```
 
 * Click **Go** to import the sample data and schema
